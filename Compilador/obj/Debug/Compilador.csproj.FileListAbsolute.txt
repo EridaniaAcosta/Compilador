@@ -1,0 +1,10 @@
+C:\Users\qjmso\Desktop\2-2021\compiladores\Compilador\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\qjmso\Desktop\2-2021\compiladores\Compilador\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\qjmso\Desktop\2-2021\compiladores\Compilador\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\qjmso\Desktop\2-2021\compiladores\Compilador\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\qjmso\Desktop\2-2021\compiladores\Compilador\Compilador\Compilador\obj\Debug\Compilador.Compilador.resources
+C:\Users\qjmso\Desktop\2-2021\compiladores\Compilador\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\qjmso\Desktop\2-2021\compiladores\Compilador\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\qjmso\Desktop\2-2021\compiladores\Compilador\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\qjmso\Desktop\2-2021\compiladores\Compilador\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\qjmso\Desktop\2-2021\compiladores\Compilador\Compilador\Compilador\obj\Debug\Compilador.pdb
